@@ -2,7 +2,7 @@
 //  AddViewController.swift
 //  TableTodoList
 //
-//  Created by 유라클 on 2024/01/05.
+//  Created by sodud on 2024/01/05.
 //
 
 import UIKit
@@ -17,6 +17,10 @@ class AddViewController: UIViewController {
     }
     
     @IBAction func btnAddItem(_ sender: UIButton) {
+        items.append(tfAddItem.text!)
+        itemsImageFile.append("clock.png")
+        tfAddItem.text=""
+        _ = navigationController?.popViewController(animated: true)
     }
     
     /*

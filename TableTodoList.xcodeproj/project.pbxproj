@@ -115,12 +115,12 @@
 				8F45A0772B47964800BE1C43 /* AppDelegate.swift */,
 				8F45A0A72B47EBC600BE1C43 /* TableViewController.swift */,
 				8F45A0792B47964800BE1C43 /* SceneDelegate.swift */,
+				8F45A0AB2B47EC8A00BE1C43 /* AddViewController.swift */,
+				8F45A0AD2B47ECD900BE1C43 /* DetailViewController.swift */,
 				8F45A07D2B47964800BE1C43 /* Main.storyboard */,
 				8F45A0802B47964A00BE1C43 /* Assets.xcassets */,
 				8F45A0822B47964A00BE1C43 /* LaunchScreen.storyboard */,
 				8F45A0852B47964A00BE1C43 /* Info.plist */,
-				8F45A0AB2B47EC8A00BE1C43 /* AddViewController.swift */,
-				8F45A0AD2B47ECD900BE1C43 /* DetailViewController.swift */,
 			);
 			path = TableTodoList;
 			sourceTree = "<group>";
