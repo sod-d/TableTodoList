@@ -8,7 +8,7 @@
 import UIKit
 
 var items = ["스터디 준비하기", "회사 회식", "메가박스 영화 시사회 참석"]
-var itemsImageFile = ["pencil.png","cart.png", "clock.png", ]
+var itemsImageFile = ["pencil.png","cart.png", "clock.png" ]
 
 class TableViewController: UITableViewController {
 
